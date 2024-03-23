@@ -17,7 +17,6 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 - Easy To Browse
 - Easy To Customize your details With GUI
 - Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
-- Dark Mode
 
 
 ### Sections
@@ -66,12 +65,6 @@ If you liked this portfolio template, don't forget to give it a ⭐.
 
 ## Awesome Contributors
 [@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
-
 
 
 
